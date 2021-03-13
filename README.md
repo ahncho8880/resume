@@ -21,8 +21,9 @@
 항상 새로운 기술에 귀를 기울이고 배우려하고 있습니다.
 
 ## 사이드 프로젝트
-- 1. book broswer
-- 2. 2018 Worldcup betting website
+- book browser website
+
+- 2018 Worldcup betting website
 <!---
 ahncho8880/ahncho8880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
