@@ -23,9 +23,8 @@
 ## 사이드 프로젝트
 #### (1) book browser website(https://github.com/ahncho8880/book_app_2019)
 - 개요
-
-  책에 관한 정보와 독자들의 후기 공유 사이트
-- 개발환경
+  - 책에 관한 정보와 독자들의 후기 공유 사이트
+- 사용기술
   <img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
 
 - 실행화면
@@ -36,8 +35,13 @@
 
 #### (2) 2018 Worldcup betting website(https://github.com/ahncho8880/2018worldcup_app_2018)
 - 개요
-  친구들과 월드컵경기 배팅을 하기 위해 개발
-  개별 경기에 따라 점수 합산 후 통합점수 계산
+  - 친구들과 월드컵경기 배팅을 하기 위해 개발
+  - 개별 경기에 따라 점수 합산 후 통합점수 계산
+- 사용기술
+
+<img src="https://user-images.githubusercontent.com/22166075/111059917-6c534480-84dc-11eb-8eee-b2d4ef037356.png" width="20%" height="50%"><img src="https://user-images.githubusercontent.com/22166075/111059955-ba684800-84dc-11eb-919c-3111a2b34cd4.png
+" width="20%" height="50%">
+
 <!---
 ahncho8880/ahncho8880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
