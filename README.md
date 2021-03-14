@@ -21,8 +21,7 @@
 항상 새로운 기술에 관심을 가지고 학습하고 있습니다.
 
 ## 사이드 프로젝트
-#### (1) book browser website(https://github.com/ahncho8880/book_app_2019
-)
+#### (1) book browser website(https://github.com/ahncho8880/book_app_2019)
 - 개요
 책에 관한 정보와 독자들의 후기 공유 사이트
 - 개발환경
