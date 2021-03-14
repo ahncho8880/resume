@@ -27,6 +27,10 @@
 - 개발환경
 <img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
 
+- 구동
+<img src="https://user-images.githubusercontent.com/22166075/111059181-cfda7380-84d6-11eb-9900-fb7c650fcfdc.png" width="100%" height="100%">
+![image](https://user-images.githubusercontent.com/22166075/111059181-cfda7380-84d6-11eb-9900-fb7c650fcfdc.png)
+
 #### (2) 2018 Worldcup betting website
 - 
 <!---
