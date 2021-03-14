@@ -34,8 +34,10 @@
 
   <img src="https://user-images.githubusercontent.com/22166075/111059407-9acf2080-84d8-11eb-9acd-066d0aaccfdb.png" width="45%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059430-ceaa4600-84d8-11eb-844c-2afbef895a64.png" width="45%" height="50%">
 
-#### (2) 2018 Worldcup betting website
-- 
+#### (2) 2018 Worldcup betting website(https://github.com/ahncho8880/2018worldcup_app_2018)
+- 개요
+  친구들과 월드컵경기 배팅을 하기 위해 개발
+  개별 경기에 따라 점수 합산 후 통합점수 계산
 <!---
 ahncho8880/ahncho8880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
