@@ -33,7 +33,7 @@
 
 #### (2) 2018 Worldcup betting website(https://github.com/ahncho8880/2018worldcup_app_2018)
 - 개요
-  - 친구들과 월드컵경기 배팅을 하기 위해 개발
+  - 친구들과의 월드컵경기 배팅을 위해 개발
   - 개별 경기에 따라 점수 합산 후 통합점수 계산
 - 개발환경
 
