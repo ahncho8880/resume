@@ -24,7 +24,7 @@
 #### (1) book browser website(https://github.com/ahncho8880/book_app_2019)
 - 개요
   - 책에 관한 정보와 독자들의 후기작성 및 평가 사이트
-- 사용기술
+- 개발환경
   <img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
 
 - 실행화면
