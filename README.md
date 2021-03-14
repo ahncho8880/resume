@@ -21,15 +21,12 @@
 항상 새로운 기술에 관심을 가지고 학습하고 있습니다.
 
 ## 사이드 프로젝트
-#### (1) book browser website
+#### (1) book browser website(https://github.com/ahncho8880/book_app_2019
+)
 - 개요
 책에 관한 정보와 독자들의 후기 공유 사이트
 - 개발환경
 <img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
-
-- 소스코드
-https://github.com/ahncho8880/book_app_2019
-
 
 #### (2) 2018 Worldcup betting website
 - 
