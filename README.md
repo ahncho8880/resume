@@ -39,8 +39,7 @@
   - 개별 경기에 따라 점수 합산 후 통합점수 계산
 - 사용기술
 
-<img src="https://user-images.githubusercontent.com/22166075/111059917-6c534480-84dc-11eb-8eee-b2d4ef037356.png" width="20%" height="50%"><img src="https://user-images.githubusercontent.com/22166075/111059955-ba684800-84dc-11eb-919c-3111a2b34cd4.png
-" width="20%" height="50%">
+<img src="https://user-images.githubusercontent.com/22166075/111059917-6c534480-84dc-11eb-8eee-b2d4ef037356.png" width="20%" height="50%"><img src="https://user-images.githubusercontent.com/22166075/111059955-ba684800-84dc-11eb-919c-3111a2b34cd4.png" width="20%" height="50%">
 
 <!---
 ahncho8880/ahncho8880 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
