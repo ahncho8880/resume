@@ -23,15 +23,16 @@
 ## 사이드 프로젝트
 #### (1) book browser website(https://github.com/ahncho8880/book_app_2019)
 - 개요
-책에 관한 정보와 독자들의 후기 공유 사이트
+
+  책에 관한 정보와 독자들의 후기 공유 사이트
 - 개발환경
-<img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
+  <img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
 
 - 실행화면
 
-<img src="https://user-images.githubusercontent.com/22166075/111059181-cfda7380-84d6-11eb-9900-fb7c650fcfdc.png" width="45%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059304-ea611c80-84d7-11eb-894e-3383be52c333.png" width="45%" height="50%">
+  <img src="https://user-images.githubusercontent.com/22166075/111059181-cfda7380-84d6-11eb-9900-fb7c650fcfdc.png" width="45%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059304-ea611c80-84d7-11eb-894e-3383be52c333.png" width="45%" height="50%">
 
-<img src="https://user-images.githubusercontent.com/22166075/111059407-9acf2080-84d8-11eb-9acd-066d0aaccfdb.png" width="45%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059430-ceaa4600-84d8-11eb-844c-2afbef895a64.png" width="45%" height="50%">
+  <img src="https://user-images.githubusercontent.com/22166075/111059407-9acf2080-84d8-11eb-9acd-066d0aaccfdb.png" width="45%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059430-ceaa4600-84d8-11eb-844c-2afbef895a64.png" width="45%" height="50%">
 
 #### (2) 2018 Worldcup betting website
 - 
