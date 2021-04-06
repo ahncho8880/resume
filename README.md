@@ -4,13 +4,11 @@
 
 
 ## 소개
-안녕하세요. 2년차 자바개발자로 일하고 있는 안철현입니다.
+안녕하세요. 2년차 소프트웨어 엔지니어로 일하고 있는 안철현입니다.
 
 충북대 소프트웨어학과 졸업후, 일본기업에 취직하여 대기업의 사원관리 웹어플리케이션 개발 및 채권 관리 시스템의 청구서 발행 프로그램 개발을 담당하였습니다.
 
-최근 1년 동안은 50명규모의 팀프로젝트로 진행한 AngularJS와 Spring기반의 소프트뱅크사의 통신기지국 관리 어플리케이션 개발 프로젝트에 자바개발자로서 
-
-참여하였습니다.
+최근 1년 동안 50명규모의 팀프로젝트로 진행한 AngularJS와 Spring기반의 소프트뱅크사의 통신기지국 관리 어플리케이션 개발 프로젝트에 참여하였습니다.
 
 경험을 쌓으면서 좋은 코드로 사용자에게 편의성과 즐거움을 제공할 수 있는 개발자가 되고 싶습니다.
 
@@ -21,7 +19,7 @@
 ## 사이드 프로젝트
 #### (1) book browser website(https://github.com/ahncho8880/book_app_2019)
 - 개요
-  - 책에 관한 정보와 독자들의 후기작성 및 평가 사이트
+  - 책에 관한 정보와 독자들의 후기와 평가를 공유할 수 있는 컨셉의 웹 사이트
 - 개발환경
   <img width="974" alt="env" src="https://user-images.githubusercontent.com/22166075/111058946-4d04e900-84d5-11eb-9e8e-9e01b8fd4443.png">
 
@@ -33,8 +31,7 @@
 
 #### (2) 2018 Worldcup betting website(https://github.com/ahncho8880/2018worldcup_app_2018)
 - 개요
-  - 친구들과의 월드컵경기 배팅을 위해 개발
-  - 개별 경기에 따라 점수 합산 후 통합점수 계산
+  - 월드컵경기 승부예측 게임 서비스 컨셉의 웹 사이트
 - 개발환경
 
 <img src="https://user-images.githubusercontent.com/22166075/111059917-6c534480-84dc-11eb-8eee-b2d4ef037356.png" width="20%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111060124-04056280-84de-11eb-929c-c12086b26fb2.png" width="10%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059955-ba684800-84dc-11eb-919c-3111a2b34cd4.png" width="20%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111059978-f3a0b800-84dc-11eb-8a99-fd1cf255ad12.png" width="15%" height="50%"> <img src="https://user-images.githubusercontent.com/22166075/111060018-3e223480-84dd-11eb-8715-c308c4dd514b.png" width="20%" height="50%">
