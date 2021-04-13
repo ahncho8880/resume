@@ -1,8 +1,5 @@
 # Resume
 
-![안철현님 반명함](https://user-images.githubusercontent.com/22166075/111038489-98cf7800-846c-11eb-8ae0-59050bbccda7.jpg)
-
-
 ## 소개
 안녕하세요. 2년차 소프트웨어 엔지니어로 일하고 있는 안철현입니다.
 
